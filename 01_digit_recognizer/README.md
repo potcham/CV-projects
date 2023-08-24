@@ -34,21 +34,21 @@ The following tasks were implemented in the notebook `01_MNIST.ipynb`:
 
     * Confusion Matrix
 
-        ![](mlp_cm.png)
+        ![](images/mlp_cm.png)
 
     * Inference Plot
 
-        ![](mlp_results.png)
+        ![](images/mlp_results.png)
 
 2. Custom CNN model:
 
     * Confusion Matrix
 
-        ![](cnn_cm.png)
+        ![](images/cnn_cm.png)
 
     * Inference Plot
-    
-        ![](cnn_results.png)
+
+        ![](images/cnn_results.png)
 
 
 ## Notes & Improvements:
