@@ -53,5 +53,5 @@ The following tasks were implemented in the notebook `01_MNIST.ipynb`:
 
 ## Notes & Improvements:
 * Modern training techniques can be used in complex scenarios like scheduler learning rate, gradient accummulation, etc.
-* For multiple experiements, monitoring libraries are useful like tensorboard, W&B, etc
+* For multiple experiements, monitoring tools are useful like tensorboard, W&B, etc
 * Pretrained models could be used like EfficientNet or ViT
